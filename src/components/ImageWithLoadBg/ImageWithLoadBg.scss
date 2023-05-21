@@ -1,0 +1,24 @@
+.image-with-Bg {
+    position: relative;
+    background-color: #c4c4c4;
+    width: 100%;
+
+    .image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+
+        img {
+            width: 100%;
+            height: 100%;
+            transition: all 0.5s;
+            object-fit: cover;
+        }
+    }
+}
