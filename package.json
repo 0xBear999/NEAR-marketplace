@@ -2,7 +2,7 @@
   "name": "nft-market",
   "version": "1.0.0",
   "description": "NEAR NFT Market Reference Implementation",
-  "author": "Matt Lockyer | NEAR Protocol",
+  "author": "0xBear999",
   "license": "MIT",
   "dependencies": {
     "@emotion/react": "^11.8.1",
